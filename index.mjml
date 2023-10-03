@@ -1,0 +1,191 @@
+<mjml>
+  <mj-head>
+    <mj-title> LA Opera E-News</mj-title>
+    <mj-preview>
+      Our Don Giovanni simulcast is coming to you live at the Santa Monica Pier and La Mirada Community Regional Park this Saturday.
+    </mj-preview>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+        background-color: #ffffff;
+        font-family: helvetica, arial;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .link-color {
+        color: #4B7BA6;
+      }
+
+      .link {
+        color: #000000;
+        text-decoration: none;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#CCDDEE">
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/6WHL1RY/header-jpeg.webp" alt="LA Opera E-News banner" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Hero image -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/ydDK0N5/hero-gif.webp" alt="hero image" />
+      </mj-column>
+    </mj-section padding="0">
+    <mj-section padding="0px">
+      <mj-column width="100%">
+        <mj-text align="left" font-size="19px" line-height="1.1">
+          <h1>Your Pre-Simulcast Activities Guide</h1>
+          <p style="font-size:17px">Our Don Giovanni simulcast is coming to you live at the Santa Monica Pier and La Mirada Community Regional Park this Saturday, and we wanted to share a few of the ways you can spend your day before settling down for opera under the stars.The simulcast is a wonderful opportunity to connect with and support the local community. Santa Monica and La Mirada both boast rich cultural scenes, and there's sure to be something going on that will catch your eye. Take a look at our suggestions by clicking the link below!</p>
+        </mj-text>
+      </mj-column>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button background-color="#FCDA30" color="#000000" font-weight="bold" font-size="16px">
+            READ HERE
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- 2 Columns -->
+      </mj-raw>
+      <mj-section padding="5px">
+        <mj-column padding="5px">
+          <mj-image src="https://i.ibb.co/DLf9vQF/mozart-gif.webp" alt="Mozart" padding="1" />
+          <mj-text align="left" font-size="16px" line-height="20.5px" padding="15px">
+            <h1 style="font-size:21px">The History of Mozart and Da Ponte</h1>
+            <p>
+              There are so many elements that go into making a classic opera. While a brilliant composer is a must there should also be a gripping story to highlight the genius music. Lorenzo Da Ponte is most famous for being the librettist for three of Mozart's greatest operas (The Marriage of Figaro, Don Giovanni, and Cosi Fan Tutte).
+            </p>
+            <p>
+              Join us as we take a brief look at this pair's fascinating history as well as Da Ponte's influence on Mozart's masterpieces.</p>
+          </mj-text>
+          <mj-button background-color="#FCDA30" color="#000000" font-weight="bold" font-size="14px" padding="0px" href="https://www.laopera.org/discover/la-opera-content/new-blog-post-44/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=September+22nd+E-Newsletter" alt="The History of Mozart and Da Pointe">
+            READ HERE
+          </mj-button>
+        </mj-column>
+        <mj-column padding="2px">
+          <mj-image src="https://i.ibb.co/fvjPNRr/alan-gif.webp" alt="Alan Williams" padding="5px" />
+          <mj-text align="left" font-size="16px" line-height="21px" padding="10px">
+            <h1 style="font-size:21px">Meet the Don Giovanni Cast: Alan Williams</h1>
+            <p>
+              We've had the recent pleasure to sit down and talk with the young and talented Alan Williams who is playing Masetto in our Don Giovanni production. As an LA native himself, Williams shared some of his favorite LA activities as well as his fascinating pre-show ritual and his dream revenge song for Giovanni as the Don receives his comeuppance. Williams will be making various appearances on the main stage this season so let's get to know the artist portraying these incredible characters.
+            </p>
+          </mj-text>
+          <mj-button background-color="#FCDA30" color="#000000" font-weight="bold" font-size="14px" href="https://www.laopera.org/discover/la-opera-content/meet-the-don-giovanni-cast-alan-williams/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=September+22nd+E-Newsletter" alt="Meet the cast">
+            WATCH HERE
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- Banner -->
+      </mj-raw>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image padding="12px" width="600px" href="https://www.laopera.org/performances/202324-season/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=September+22nd+E-Newsletter" src="https://i.ibb.co/b7Kj5nv/banner-1-jpeg.webp" alt="Banner" />
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- 3 Columns -->
+      </mj-raw>
+
+      <mj-section padding="5px">
+        <mj-column>
+          <mj-image align="center" padding="5px" width="200px" src="https://i.ibb.co/kgZS4qk/perks-gif.webp" alt="perks" padding="5" />
+          <mj-text align="left" font-size="16px" line-height="1" padding="4.5px">
+            <h1 style="font-size:24px">Enjoy These Exclusive Perks</h1>
+            <p>
+              Interested in taking your opera-going experience to the next level? Donate today and receive exclusive benefits like invitations to rehearsals, access to the Allegro Lounge (a members only lounge open before the show and during intermission), invitations to pre-sales and more—all while supporting your local opera. Click the link below to start donating and receive these perks.
+            </p>
+          </mj-text>
+          <mj-button background-color="#FCDA30" color="#000000" font-weight="bold" font-size="14px" padding="0px" href="https://www.laopera.org/support-us/donor-benefits/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=September+22nd+E-Newsletter" alt="Donate">
+            DONATE NOW
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image align="center" padding="5px" width="200px" src="https://i.ibb.co/6bFBG8B/podcast-gif.webp" alt="Behind the curtain podcast" padding="5px" />
+          <mj-text align="left" font-size="16px" line-height="1" padding="4.5px">
+            <h1 style="font-size:24px">Behind the Curtain Podcast</h1>
+            <p>
+              In the newest episode of our Behind the Curtain podcast, Vice President of LA Opera Connects,
+              Tehvon Fowler-Chapman, reads the synopsis for Don Giovanni.
+            </p>
+            <p>
+              Whether it's your first time experiencing this masterwork or you simply need a refresher, this scene-by-scene breakdown will make sure you're never lost in Don Giovanni's madness
+            </p>
+          </mj-text>
+          <mj-button background-color="#FCDA30" color="#000000" font-weight="bold" font-size="14px" padding="4px" href="https://soundcloud.com/laopera/don-giovanni-scene-by-scene?utm_source=ActiveCampaign&utm_medium=email&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=September+22nd+E-Newsletter" alt="Sound Cloud">
+            LISTEN HERE
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image align="center" padding="5px" width="200px" src="https://i.ibb.co/V3PKFtb/30club-png.webp" alt="Alan Williams" padding="3px" />
+          <mj-text align="left" font-size="15.5px" line-height="1" padding="4.5px">
+            <h1 style="font-size:24px">Join 30 Club for $30 Tickets</h1>
+            <p>
+              LA Opera's 30 Club makes tickets more accessible than ever! Here's how it works: for each performance, we reserve 30 seats in our illustrious Founders Circle (a value of over $150 each) and offer them to 30 Club members (must be 30 years old or younger) for just $30. Keep an eye out for an email from us 2-4 weeks before a show with an exclusive promo code that you can use for up to two tickets.
+            </p>
+          </mj-text>
+          <mj-button background-color="#FCDA30" color="#000000" font-weight="bold" font-size="14px" padding="10px" href="https://www.laopera.org/performances/ticket-information/special-offers/30-club/?utm_source=ActiveCampaign&utm_source=ActiveCampaign&utm_medium=email&utm_medium=email&utm_content=You+re+Invited+to+Free+Showing+of+%22Don+Giovanni%22+*Revised*&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=Revised+August+25th+E-Newsletter&utm_campaign=September+22nd+E-Newsletter" align="30 Club Sign Up">
+            SIGN UP
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- Banner -->
+      </mj-raw>
+      <mj-section padding="0">
+        <mj-column width="100%">
+          <mj-image padding="12px" width="600px" href="https://www.laopera.org/performances/202324-season/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=September+22nd+E-Newsletter" src="https://i.ibb.co/b7Kj5nv/banner-1-jpeg.webp" alt="Banner" />
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- Footer -->
+      </mj-raw>
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text align="center">
+            <b>LA Opera</b> | Dorothy Chandler Pavilion
+            <p><a href="https://www.laopera.org/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=September+22nd+E-Newsletter" align="LAOpera.ord" class="link-color">LAOpera.org</a></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-text align="center" line-height="1.5" font-size="12px">
+          You are receiving this message as a benefit for LA Opera patrons. If you don't wish to receive any more messages, please click on the unsubscribe link at the bottom of this email. Your privacy is important to us. LA Opera’s privacy policy can be found at <a href="https://www.laopera.org/footer/privacy-policy/" class="link-color"> www.laopera.org/privacy-policy/</a>.
+        </mj-text>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-size="12px">
+            <a href="https://laopera.prospect2.com/index.php?action=update&listid=1&c=1086&m=1092&s=297510d133c2486c4e20da16d11f3dc1" alt="Update my preferences" class="link">UPDATE MY PREFERENCES |</a>
+            <a href="https://laopera.prospect2.com/unsubscribe_result/1/11/297510d133c2486c4e20da16d11f3dc1/0/1086/1092" alt="unsubscribe" class="link"> UNSUBSCRIBE |</a>
+            <a href="https://laopera.prospect2.com/index.php?action=forward&nl=1&c=1086&m=1092&s=297510d133c2486c4e20da16d11f3dc1" alt="forward" class="link">FORWARD |</a>
+            <a href="https://laopera.prospect2.com/index.php?action=social&chash=d91d1b4d82419de8a614abce9cc0e6d4.1092&nosocial=1" alt="view in browseer" class="link">VIEW IN BROWSER</a>
+          </mj-text>
+          <mj-spacer height="5px" />
+          <mj-text align="center">
+            <b>LA Opera</b> Dorothy Chandler Pavilion 135 North Grand Avenue Los Angeles, CA 90012
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+  </mj-body>
+</mjml>
