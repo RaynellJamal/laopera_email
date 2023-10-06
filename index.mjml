@@ -138,7 +138,7 @@
               LA Opera's 30 Club makes tickets more accessible than ever! Here's how it works: for each performance, we reserve 30 seats in our illustrious Founders Circle (a value of over $150 each) and offer them to 30 Club members (must be 30 years old or younger) for just $30. Keep an eye out for an email from us 2-4 weeks before a show with an exclusive promo code that you can use for up to two tickets.
             </p>
           </mj-text>
-          <mj-button background-color="#FCDA30" color="#000000" font-weight="bold" font-size="14px" padding="10px" href="https://www.laopera.org/performances/ticket-information/special-offers/30-club/?utm_source=ActiveCampaign&utm_source=ActiveCampaign&utm_medium=email&utm_medium=email&utm_content=You+re+Invited+to+Free+Showing+of+%22Don+Giovanni%22+*Revised*&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=Revised+August+25th+E-Newsletter&utm_campaign=September+22nd+E-Newsletter" align="30 Club Sign Up">
+          <mj-button align="center" background-color="#FCDA30" color="#000000" font-weight="bold" font-size="14px" padding="10px" href="https://www.laopera.org/performances/ticket-information/special-offers/30-club/?utm_source=ActiveCampaign&utm_source=ActiveCampaign&utm_medium=email&utm_medium=email&utm_content=You+re+Invited+to+Free+Showing+of+%22Don+Giovanni%22+*Revised*&utm_content=Pre-Simulcast+Activities+for+You&utm_campaign=Revised+August+25th+E-Newsletter&utm_campaign=September+22nd+E-Newsletter" align="30 Club Sign Up">
             SIGN UP
           </mj-button>
         </mj-column>
